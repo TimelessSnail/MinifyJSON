@@ -1,6 +1,2 @@
 # MinifyJSON
-Simple Python script to minify JSON files
-
-Feel free to use
-
-Note: This script use Tkinter
+Simple Python script to remove whitespace in JSON files
